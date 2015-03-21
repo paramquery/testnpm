@@ -1,0 +1,21 @@
+{
+  "name": "npmtest",
+  "fullname": "npm-test",
+  "version": "1.0.1",
+  "author": {
+    "name": "Paramvir Dhindsa",
+    "url": "http://www.paramquery.com/"
+  },
+  "maintainers": [
+    {
+      "name": "Paramvir Dhindsa",
+      "url": "http://www.paramquery.com/"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "GPL v3",
+      "url": "http://paramquery.com/license"
+    }
+  ]
+}
